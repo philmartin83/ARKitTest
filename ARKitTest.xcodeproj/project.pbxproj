@@ -15,6 +15,7 @@
 		FF741D9520EAAC7800853D69 /* ARKitTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF741D9420EAAC7800853D69 /* ARKitTestTests.swift */; };
 		FF741DA020EAAC7800853D69 /* ARKitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF741D9F20EAAC7800853D69 /* ARKitTestUITests.swift */; };
 		FF741DAE20EAAF7600853D69 /* Resnet50.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = FF741DAD20EAAF7600853D69 /* Resnet50.mlmodel */; };
+		FF741DB020EAC7FD00853D69 /* timeburner_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FF741DAF20EAC7FD00853D69 /* timeburner_regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FF741D9F20EAAC7800853D69 /* ARKitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARKitTestUITests.swift; sourceTree = "<group>"; };
 		FF741DA120EAAC7800853D69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FF741DAD20EAAF7600853D69 /* Resnet50.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Resnet50.mlmodel; sourceTree = "<group>"; };
+		FF741DAF20EAC7FD00853D69 /* timeburner_regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = timeburner_regular.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				FF741DAD20EAAF7600853D69 /* Resnet50.mlmodel */,
+				FF741DAF20EAC7FD00853D69 /* timeburner_regular.ttf */,
 				FF741D7F20EAAC7400853D69 /* AppDelegate.swift */,
 				FF741D8120EAAC7400853D69 /* ViewController.swift */,
 				FF741D8320EAAC7400853D69 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF741DB020EAC7FD00853D69 /* timeburner_regular.ttf in Resources */,
 				FF741D8A20EAAC7800853D69 /* LaunchScreen.storyboard in Resources */,
 				FF741D8720EAAC7800853D69 /* Assets.xcassets in Resources */,
 				FF741D8520EAAC7400853D69 /* Main.storyboard in Resources */,
